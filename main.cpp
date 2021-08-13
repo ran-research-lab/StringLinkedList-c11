@@ -3,6 +3,8 @@
 using namespace std;
 
 
+// test
+
 // Variables and macros for assertions, DO NOT CHANGE ****
 int totalAssertions = 0;
 int passedAssertions  = 0;
